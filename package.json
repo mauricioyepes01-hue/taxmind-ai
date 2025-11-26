@@ -15,5 +15,3 @@
     "next-auth": "4.24.7"
   }
 }
-npm install
-npm run build
